@@ -1,4 +1,4 @@
-## 안녕하세 👋
+## 안녕하세요  👋
 
 <!--
 **yeonseongg/yeonseongg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
